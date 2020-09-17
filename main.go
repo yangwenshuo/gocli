@@ -8,7 +8,7 @@ import (
 	"sort"
 )
 
-func Run() {
+func main() {
 	var language string
 
 	app := cli.NewApp()
