@@ -1,4 +1,4 @@
-module gocli
+module github.com/yangwenshuo/gocli
 
 go 1.13
 
